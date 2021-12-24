@@ -1,0 +1,7 @@
+*.config
+*proliferate-client/
+*.py
+*.exps
+*data/
+*paperwork/
+*norming/
